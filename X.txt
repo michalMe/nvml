@@ -1,0 +1,36 @@
+  PID TTY      STAT   TIME COMMAND
+ 3557 pts/1    Ss     0:00 /bin/bash
+ 3600 pts/1    S+     0:03 mc
+ 3602 pts/2    Ss+    0:00 bash -rcfile .bashrc
+ 5838 ?        Ss     0:00 /lib/systemd/systemd --user
+ 5865 ?        S      0:00 (sd-pam)
+ 6100 ?        Ss     0:23 SCREEN
+ 6195 pts/3    Ss     0:00 /bin/bash
+ 6238 pts/4    Ss     0:00 /bin/bash
+ 6471 ?        Ss     0:00 ssh-agent
+ 6498 pts/5    S+     0:09 mc
+ 6500 pts/7    Ss+    0:00 bash -rcfile .bashrc
+ 7253 ?        S      0:00 sshd: gkblditp@pts/0
+ 7284 ?        S      0:00 sshd: gkblditp@notty
+ 7285 ?        Ss     0:00 /usr/lib/openssh/sftp-server
+ 7326 pts/0    Ss     0:00 -bash
+ 7382 pts/0    S+     0:00 screen -x MJM
+ 7492 pts/17   Ss     0:00 /bin/bash
+ 7564 pts/9    S+     0:00 mc
+ 7566 pts/14   Ss     0:00 bash -rcfile .bashrc
+ 7583 pts/13   Ss+    0:00 /bin/bash
+ 9332 pts/14   R+     0:00 ps -x
+10563 pts/11   S+     0:00 mc
+12024 pts/12   Ss     0:00 /bin/bash
+13618 pts/12   S+     0:02 mc
+13620 pts/15   Ss+    0:00 bash -rcfile .bashrc
+14044 pts/16   Ss     0:00 /bin/bash
+18154 pts/8    Ss     0:00 /bin/bash
+18204 pts/8    S+     0:00 mc
+18206 pts/11   Ss     0:00 bash -rcfile .bashrc
+22780 pts/9    Ss     0:00 /bin/bash
+24569 pts/4    S+     0:00 mc
+24571 pts/10   Ss+    0:00 bash -rcfile .bashrc
+27151 pts/3    S+     0:07 mc
+27153 pts/6    Ss+    0:00 bash -rcfile .bashrc
+29879 pts/5    Ss     0:00 /bin/bash
